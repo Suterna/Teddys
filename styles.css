@@ -1,0 +1,104 @@
+body {
+    margin-top: 75px;
+    margin-bottom: 0;
+    background-color: white;
+}
+
+.nombreEmpresa {
+    font-size: 1.5em;
+    font-family: 'Quicksand', normal;
+}
+
+.navbar {
+    height: 100px;
+    font-size: 1.2em;
+    background-color: #804537;
+}
+
+.navbar-brand {
+    font-size: 2em;
+    font-family: 'Quicksand', normal;
+    background-color: #804537;
+}
+
+.navbar img {
+    width: 15%;
+    display: block;
+    margin: 0 auto;
+}
+
+.nav-item {
+    margin: 0 auto;
+    padding: 1em 0;
+}
+
+.footer {
+    background-color: #dfb1a9;
+    font-family: 'Quicksand', normal;
+}
+
+.fb-ic {
+    color: black;
+}
+
+.fb-ic:hover {
+    color: grey;
+}
+
+.jumbotron-fluid {
+    background-color: #e0a090;
+    padding: 3em;
+    margin-bottom: 2em;
+}
+
+.logoBanner {
+    width: 7%;
+    display: block;
+    margin: 3em auto;
+}
+
+.card-deck .card-header {
+    font-size: 1.8em;
+    font-family: 'Quicksand', normal;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+.carousel {
+    width: 50%;
+    margin: 4em auto;
+}
+
+.carousel-item {
+    height: 500px;
+}
+
+.carousel-indicators li {
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    margin: 0 1.5em;
+    background-color: black;
+}
+
+.carousel-indicators {
+    top: 20px;
+}
+
+.map-container-6 {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+
+.map-container-6 iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
